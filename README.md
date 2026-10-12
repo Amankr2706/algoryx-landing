@@ -1,8 +1,8 @@
-# Algoryx Landing Page
+# Algoryx  Scroll-Based Animated Landing Page
 
 A modern, responsive, scroll-animated landing page built for **Task 2** of the Algoryx Frontend Internship.
 
-**Live demo:** _
+**Live demo:** https://algoryx-landing-ten.vercel.app
 
 ## 💻 Tech stack
 React 18 (Vite), Tailwind CSS, Framer Motion, Lucide React icons, React Hooks (`useState`, `useEffect`, `useRef`, `useCallback`)
