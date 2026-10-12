@@ -29,15 +29,19 @@ React 18 (Vite), Tailwind CSS, Framer Motion, Lucide React icons, React Hooks (`
 ## Screenshots
 
 ### **Hero (Light)**  :
+<img width="1814" height="855" alt="Hero Light" src="https://github.com/user-attachments/assets/0dea5f80-2e33-42d6-a7c9-4118116d867d" />
 
 
 ### **Hero (Dark)**  :
+<img width="1847" height="865" alt="Hero Dark" src="https://github.com/user-attachments/assets/c1e27f65-a37a-4034-9536-d110d2826402" />
 
 
 ### **Process and Terminal**  :
+<img width="1755" height="862" alt="Process" src="https://github.com/user-attachments/assets/20e6c31e-9bb9-4e53-80d1-da6c66051cc5" />
 
 
 ### **Mobile View**  :
+<img width="752" height="598" alt="Mobile View" src="https://github.com/user-attachments/assets/183da4d2-e65c-454a-aab2-7ea7ae58cb7a" />
 
 
 
@@ -62,4 +66,6 @@ npm run dev
 Build for production: `npm run build`
 
 ## Author
-Aman Kumar Raman
+**Aman Kumar Raman**
+
+Frontend Developer Intern, Algoryx Technologies
