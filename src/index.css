@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+}
+
+body {
+  @apply font-body bg-white text-slate-700 dark:bg-[#0E0720] dark:text-slate-300;
+  @apply text-[1.0625rem] leading-relaxed transition-colors duration-300;
+}
+
+h1,
+h2,
+h3 {
+  @apply font-display text-ink dark:text-white;
+}
+
+:focus-visible {
+  @apply outline outline-2 outline-offset-2 outline-brand-light;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.dots {
+  background-image: radial-gradient(rgba(109, 31, 242, 0.2) 1.2px, transparent 1.2px);
+  background-size: 22px 22px;
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #7c3aed, #c084fc, #6d1ff2, #7c3aed);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 4s linear infinite;
+}
+
+@keyframes shimmer {
+  to {
+    background-position: 200% 0;
+  }
+}
