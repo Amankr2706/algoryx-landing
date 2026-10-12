@@ -29,11 +29,11 @@ React 18 (Vite), Tailwind CSS, Framer Motion, Lucide React icons, React Hooks (`
 ## Screenshots
 
 ### **Hero (Light)**  :
-<img width="1814" height="855" alt="Hero Light" src="https://github.com/user-attachments/assets/0dea5f80-2e33-42d6-a7c9-4118116d867d" />
+<img width="1770" height="866" alt="Hero Light" src="https://github.com/user-attachments/assets/846d8bcd-6ca6-45e3-9a59-2afea861845e" />
 
 
 ### **Hero (Dark)**  :
-<img width="1847" height="865" alt="Hero Dark" src="https://github.com/user-attachments/assets/c1e27f65-a37a-4034-9536-d110d2826402" />
+<img width="1835" height="868" alt="Hero Dark" src="https://github.com/user-attachments/assets/b8130daf-fc4d-44b1-9031-6e13495b223f" />
 
 
 ### **Process and Terminal**  :
