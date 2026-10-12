@@ -110,7 +110,7 @@ export default function Hero() {
         </motion.div>
 
         <motion.p variants={wordVariant} className="mt-4 max-w-xl text-lg">
-          Algoryx Technologiesis an independent Indian software company. We turn ideas into
+          Algoryx Technologies is an independent Indian software company. We turn ideas into
           fast, accessible products, engineered for scale and simplicity.
         </motion.p>
 
